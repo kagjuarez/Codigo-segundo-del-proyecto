@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.borde {
+    bottom: 1em;
+    left: 1.3em;
+    width: 25.2em;
+    height: 44em;
+    border: 0.1em solid #ffffff;
+    border-radius: 0.4em;
+    position: absolute;
+}
+
+.CajaImg {
+    font-size: 10px;
+    width: 28em;
+    height: 46em;
+    
+    margin: auto;
+    margin-top: 10em;
+    
+    border: 1em;
+    color: black;
+    position: relative;
+    
+}
+
+.computacion{
+     width: 28em;
+     justify-content: center;
+     
+}
+
+.texto {
+    font-size: 2.8em;
+    left: 2.8em;
+    color: #ffffff;
+    position: absolute;
+    bottom: 7.4em;
+   
+}
+
+
+
